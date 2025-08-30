@@ -1,0 +1,5 @@
+$iva_icon_cell_signal_none_light $iva_icon
+	sub /
+		<= Path_1 $mol_svg_path
+			attr *
+				d \M46,192v8a6,6,0,0,1-12,0v-8a6,6,0,0,1,12,0Z

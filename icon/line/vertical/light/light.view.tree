@@ -1,0 +1,5 @@
+$iva_icon_line_vertical_light $iva_icon
+	sub /
+		<= Path_1 $mol_svg_path
+			attr *
+				d \M134,24V232a6,6,0,0,1-12,0V24a6,6,0,0,1,12,0Z

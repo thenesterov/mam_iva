@@ -1,0 +1,5 @@
+$iva_icon_dot_thin $iva_icon
+	sub /
+		<= Path_1 $mol_svg_path
+			attr *
+				d \M136,128a8,8,0,1,1-8-8A8,8,0,0,1,136,128Z

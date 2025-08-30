@@ -1,0 +1,5 @@
+$iva_icon_bed_fill $iva_icon
+	sub /
+		<= Path_1 $mol_svg_path
+			attr *
+				d \M216,72H32V48a8,8,0,0,0-16,0V208a8,8,0,0,0,16,0V176H240v32a8,8,0,0,0,16,0V112A40,40,0,0,0,216,72ZM32,88h72v72H32Z

@@ -1,0 +1,5 @@
+$iva_icon_rectangle_fill $iva_icon
+	sub /
+		<= Path_1 $mol_svg_path
+			attr *
+				d \M232,56V200a16,16,0,0,1-16,16H40a16,16,0,0,1-16-16V56A16,16,0,0,1,40,40H216A16,16,0,0,1,232,56Z

@@ -1,0 +1,5 @@
+$iva_icon_wifi_none_bold $iva_icon
+	sub /
+		<= Path_1 $mol_svg_path
+			attr *
+				d \M144,204a16,16,0,1,1-16-16A16,16,0,0,1,144,204Z

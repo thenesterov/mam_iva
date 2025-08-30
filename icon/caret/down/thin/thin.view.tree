@@ -1,0 +1,5 @@
+$iva_icon_caret_down_thin $iva_icon
+	sub /
+		<= Path_1 $mol_svg_path
+			attr *
+				d \M210.83,98.83l-80,80a4,4,0,0,1-5.66,0l-80-80a4,4,0,0,1,5.66-5.66L128,170.34l77.17-77.17a4,4,0,1,1,5.66,5.66Z
