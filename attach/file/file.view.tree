@@ -1,0 +1,9 @@
+$iva_attach_file $mol_button_open
+	multiple false
+	file File
+	title_max_length 50
+	sub /
+		<= Icon
+		<= Native
+		<= Title $mol_view
+			sub / <= title \
