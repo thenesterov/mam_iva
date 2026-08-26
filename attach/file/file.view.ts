@@ -2,7 +2,7 @@ namespace $.$$ {
 	export class $iva_attach_file extends $.$iva_attach_file {
 		@ $mol_mem
 		file(): File {
-			return this.files().at(0);
+			return this.files().at(0)!; // TODO: может ли не быть? разобраться позже
 		}
 
 		@ $mol_mem
